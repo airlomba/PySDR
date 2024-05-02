@@ -1,14 +1,14 @@
 .. _intro-chapter:
 
 #############
-Introduction
+Introdução
 #############
 
 ***************************
-Purpose and Target Audience
+Objectivo e Público-alvo
 ***************************
 
-First and foremost, a couple important terms:
+Antes de mais, alguns termos importantes:
 
 **Software-Defined Radio (SDR):**
     As a *concept* it refers to using software to perform signal processing tasks that were traditionally performed by hardware, specific to radio/RF applications.  This software can be run on a general-purpose computer (CPU), FPGA, or even GPU, and it can be used for real-time applications or offline processing of recorded signals.  Analogous terms include "software radio" and "RF digital signal processing".
